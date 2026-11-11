@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Архив стримов</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Архив стримов</h1>
+    <input id="search" type="search" placeholder="Поиск по названию...">
+  </header>
+
+  <section class="filters">
+    <label>
+      Игра
+      <select id="game">
+        <option value="">Все игры</option>
+      </select>
+    </label>
+
+    <label>
+      Тег
+      <select id="tag">
+        <option value="">Все теги</option>
+      </select>
+    </label>
+
+    <label>
+      Сортировка
+      <select id="sort">
+        <option value="new">Сначала новые</option>
+        <option value="old">Сначала старые</option>
+        <option value="views">По просмотрам</option>
+      </select>
+    </label>
+  </section>
+
+  <main id="grid"></main>
+
+  <script src="app.js"></script>
+</body>
+</html>
