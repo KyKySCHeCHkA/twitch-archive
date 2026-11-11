@@ -1,0 +1,109 @@
+:root {
+  color-scheme: dark;
+  --bg: #0e0e10;
+  --card: #18181b;
+  --text: #efeff1;
+  --accent: #9147ff;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+header {
+  padding: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+input,
+select,
+button {
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid #303032;
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+
+#search {
+  min-width: 280px;
+}
+
+.filters {
+  padding: 0 24px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+#grid {
+  padding: 0 24px 48px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+}
+
+.vod {
+  background: var(--card);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.vod img {
+  width: 100%;
+  display: block;
+}
+
+.vod-info {
+  padding: 14px;
+}
+
+.vod h2 {
+  font-size: 17px;
+  margin: 0 0 8px;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 10px 0;
+}
+
+.tags span {
+  background: #26262c;
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: 12px;
+}
+
+button {
+  cursor: pointer;
+  border: 0;
+  background: var(--accent);
+  color: white;
+}
+
+.player iframe {
+  width: 100%;
+  min-height: 480px;
+  border: 0;
+  border-radius: 12px;
+}
+
+.empty {
+  padding: 24px;
+  color: #adadb8;
+}
