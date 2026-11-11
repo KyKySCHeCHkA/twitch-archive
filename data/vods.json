@@ -1,0 +1,113 @@
+{
+  "updated_at": "2026-11-11T03:46:48.133450+00:00",
+  "games": [
+    "Другое"
+  ],
+  "tags": [],
+  "vods": [
+    {
+      "id": "2924661257",
+      "title": "＼(٥⁀▽⁀ )／",
+      "date": "2026-11-10",
+      "datetime": "2026-11-10T04:00:36+00:00",
+      "duration": "4h35m30s",
+      "game_id": "",
+      "game": "Другое",
+      "tags": [],
+      "views": 385,
+      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/10d26bbb47749a9f7408_kykyschechka_317283400404_1794283228//thumb/thumb0-640x360.jpg",
+      "url": "https://www.twitch.tv/videos/2924661257"
+    },
+    {
+      "id": "2923792542",
+      "title": "＼(٥⁀▽⁀ )／",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T04:00:29+00:00",
+      "duration": "6h6m50s",
+      "game_id": "",
+      "game": "Другое",
+      "tags": [],
+      "views": 534,
+      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/b3e1978558f23820db09_kykyschechka_317194651605_1794196820//thumb/thumb0-640x360.jpg",
+      "url": "https://www.twitch.tv/videos/2923792542"
+    },
+    {
+      "id": "2923009377",
+      "title": "＼(٥⁀▽⁀ )／гуляем по выставке #Endix",
+      "date": "2026-11-08",
+      "datetime": "2026-11-08T10:21:52+00:00",
+      "duration": "2h30m40s",
+      "game_id": "",
+      "game": "Другое",
+      "tags": [],
+      "views": 193,
+      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/6a2e4c2b67d6f9081acf_kykyschechka_317189128277_1794133304//thumb/thumb0-640x360.jpg",
+      "url": "https://www.twitch.tv/videos/2923009377"
+    },
+    {
+      "id": "2920864910",
+      "title": "＼(٥⁀▽⁀ )／CooP с @id9ra",
+      "date": "2026-11-06",
+      "datetime": "2026-11-06T04:03:13+00:00",
+      "duration": "11h17m0s",
+      "game_id": "",
+      "game": "Другое",
+      "tags": [],
+      "views": 569,
+      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/c3c63e01f68503929735_kykyschechka_317172589653_1793937785//thumb/thumb0-640x360.jpg",
+      "url": "https://www.twitch.tv/videos/2920864910"
+    },
+    {
+      "id": "2919966288",
+      "title": "＼(٥⁀▽⁀ )／CooP с @id9ra",
+      "date": "2026-11-05",
+      "datetime": "2026-11-05T04:01:31+00:00",
+      "duration": "13h5m10s",
+      "game_id": "",
+      "game": "Другое",
+      "tags": [],
+      "views": 885,
+      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/f3cf0d29c8b1d17a0e21_kykyschechka_317166329557_1793851282//thumb/thumb0-640x360.jpg",
+      "url": "https://www.twitch.tv/videos/2919966288"
+    },
+    {
+      "id": "2919265094",
+      "title": "＼(٥⁀▽⁀ )／CooP с @Invincible_NIGHTMARE -> CooP с @catastrqpha - !команды",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T12:24:09+00:00",
+      "duration": "3h52m50s",
+      "game_id": "",
+      "game": "Другое",
+      "tags": [],
+      "views": 289,
+      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/516c9f21f59807b57067_kykyschechka_317196568406_1793795041//thumb/thumb0-640x360.jpg",
+      "url": "https://www.twitch.tv/videos/2919265094"
+    },
+    {
+      "id": "2913761679",
+      "title": "＼(٥⁀▽⁀ )／ - !команды",
+      "date": "2026-10-29",
+      "datetime": "2026-10-29T07:05:21+00:00",
+      "duration": "4h28m0s",
+      "game_id": "",
+      "game": "Другое",
+      "tags": [],
+      "views": 401,
+      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/f0338fb12029428f327b_kykyschechka_317119142613_1793257513//thumb/thumb0-640x360.jpg",
+      "url": "https://www.twitch.tv/videos/2913761679"
+    },
+    {
+      "id": "2912839652",
+      "title": "＼(٥⁀▽⁀ )／ - !команды",
+      "date": "2026-10-28",
+      "datetime": "2026-10-28T05:04:11+00:00",
+      "duration": "5h52m20s",
+      "game_id": "",
+      "game": "Другое",
+      "tags": [],
+      "views": 973,
+      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/3f809f6545670103ed8e_kykyschechka_317194905044_1793163843//thumb/thumb0-640x360.jpg",
+      "url": "https://www.twitch.tv/videos/2912839652"
+    }
+  ]
+}
