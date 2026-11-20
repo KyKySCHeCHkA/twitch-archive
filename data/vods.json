@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:08:12.009672+00:00",
+  "updated_at": "2026-11-20T11:06:11.094521+00:00",
   "games": [
     "Другое"
   ],
@@ -14,7 +14,7 @@
       "game_id": "",
       "game": "Другое",
       "tags": [],
-      "views": 416,
+      "views": 417,
       "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/c060e0ed2220d7090184_kykyschechka_317213542997_1794456229//thumb/thumb0-640x360.jpg",
       "url": "https://www.twitch.tv/videos/2926474504"
     },
@@ -53,7 +53,7 @@
       "game_id": "",
       "game": "Другое",
       "tags": [],
-      "views": 538,
+      "views": 539,
       "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/b3e1978558f23820db09_kykyschechka_317194651605_1794196820//thumb/thumb0-640x360.jpg",
       "url": "https://www.twitch.tv/videos/2923792542"
     },
@@ -82,19 +82,6 @@
       "views": 569,
       "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/c3c63e01f68503929735_kykyschechka_317172589653_1793937785//thumb/thumb0-640x360.jpg",
       "url": "https://www.twitch.tv/videos/2920864910"
-    },
-    {
-      "id": "2919966288",
-      "title": "＼(٥⁀▽⁀ )／CooP с @id9ra",
-      "date": "2026-11-05",
-      "datetime": "2026-11-05T04:01:31+00:00",
-      "duration": "13h5m10s",
-      "game_id": "",
-      "game": "Другое",
-      "tags": [],
-      "views": 885,
-      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/f3cf0d29c8b1d17a0e21_kykyschechka_317166329557_1793851282//thumb/thumb0-640x360.jpg",
-      "url": "https://www.twitch.tv/videos/2919966288"
     }
   ]
 }
