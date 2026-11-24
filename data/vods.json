@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T20:59:51.960154+00:00",
+  "updated_at": "2026-11-24T05:16:35.020118+00:00",
   "games": [
     "Другое"
   ],
@@ -14,7 +14,7 @@
       "game_id": "",
       "game": "Другое",
       "tags": [],
-      "views": 422,
+      "views": 423,
       "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/c060e0ed2220d7090184_kykyschechka_317213542997_1794456229//thumb/thumb0-640x360.jpg",
       "url": "https://www.twitch.tv/videos/2926474504"
     },
@@ -43,19 +43,6 @@
       "views": 387,
       "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/10d26bbb47749a9f7408_kykyschechka_317283400404_1794283228//thumb/thumb0-640x360.jpg",
       "url": "https://www.twitch.tv/videos/2924661257"
-    },
-    {
-      "id": "2923792542",
-      "title": "＼(٥⁀▽⁀ )／",
-      "date": "2026-11-09",
-      "datetime": "2026-11-09T04:00:29+00:00",
-      "duration": "6h6m50s",
-      "game_id": "",
-      "game": "Другое",
-      "tags": [],
-      "views": 539,
-      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/b3e1978558f23820db09_kykyschechka_317194651605_1794196820//thumb/thumb0-640x360.jpg",
-      "url": "https://www.twitch.tv/videos/2923792542"
     }
   ]
 }
