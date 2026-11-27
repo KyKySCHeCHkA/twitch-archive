@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-11-26T23:35:23.010576+00:00",
-  "games": [
-    "Другое"
-  ],
+  "updated_at": "2026-11-27T07:34:01.876934+00:00",
+  "games": [],
   "tags": [],
-  "vods": [
-    {
-      "id": "2926474504",
-      "title": "＼(٥⁀▽⁀ )／- !команды",
-      "date": "2026-11-12",
-      "datetime": "2026-11-12T04:03:58+00:00",
-      "duration": "5h1m50s",
-      "game_id": "",
-      "game": "Другое",
-      "tags": [],
-      "views": 433,
-      "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/c060e0ed2220d7090184_kykyschechka_317213542997_1794456229//thumb/thumb0-640x360.jpg",
-      "url": "https://www.twitch.tv/videos/2926474504"
-    }
-  ]
+  "vods": []
 }
